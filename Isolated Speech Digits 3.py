@@ -1,5 +1,5 @@
 '''
-Isolated Spoken Digits Recognition Using LCNN
+Isolated Speech Recognition Using LCNN
 Author: Khaled Mohamed
 '''
 
